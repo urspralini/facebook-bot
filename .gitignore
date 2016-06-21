@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+# User-specific stuff:
+.idea/workspace.xml
+.idea/vcs.xml
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+pom.xml.bak
